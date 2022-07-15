@@ -1,17 +1,20 @@
-<html><head></head><body><hr>
-<h2 id="layout-post-title-blogging-like-a-hacker">layout: post title: Blogging Like a Hacker</h2>
-<table>
-<thead>
-<tr class="header">
-<th>Este blog/ site/ diario de trabajo quiere facilitar el diseño y elaboración de una webapp con todas sus apis</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>A partir de <a href="https://devexperto.com/blog-gratis-github-jekyll/"><code>devexperto</code></a></td>
-</tr>
-</tbody>
-</table>
+<html>
+  <head></head>
+    <body>
+      <hr>
+      <h2 id="blog-programar-backend">blog-programar-backend</h2>
+        <table>
+          <thead>
+            <tr class="header">
+            <th>Este blog/ site/ diario de trabajo quiere facilitar el diseño y elaboración de una webapp con todas sus apis</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="odd">
+            <td>A partir de <a href="https://devexperto.com/blog-gratis-github-jekyll/"><code>devexperto</code></a></td>
+            </tr>
+          </tbody>
+        </table>
 <h1 id="100-days-of-code--back-end-development-and-apis">100 Days of Code // Back End Development and APIs</h1>
 <h3 id="francesc"><a href="https://github.com/FrancescAdPe">Francesc</a></h3>
 <h1 id="section"></h1>
